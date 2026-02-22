@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Copyright (c) 2026 Diego (Diego-DCV)
+Copyright (c) 2026 Diego (Diego-dcv)
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
