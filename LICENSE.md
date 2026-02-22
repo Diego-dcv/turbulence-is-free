@@ -42,7 +42,11 @@ Texto completo de la licencia: https://creativecommons.org/licenses/by/4.0/legal
 **URL:** https://github.com/Diego-dcv/turbulence-is-free/
 
 When citing this work, please include:
-> Diego (2026). *The Concentration Cost Principle (CCP) in Dissipative Systems*. GitHub/Zenodo. 
+> Diego (2026). *The Concentration Cost Principle (CCP) in Dissipative Systems*.
 
 Al citar este trabajo, incluya:
-> Diego (2026). *El Principio de Coste de Concentración (PCC) en Sistemas Disipativos*. GitHub/Zenodo. 
+> Diego (2026). *El Principio de Coste de Concentración (PCC) en Sistemas Disipativos*.
+> 
+[![DOI](https://zenodo.org/badge/1164077783.svg)](https://doi.org/10.5281/zenodo.18735627)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
