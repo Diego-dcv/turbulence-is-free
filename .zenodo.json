@@ -3,8 +3,8 @@
   "description": "Computational exploration of a general principle about dissipative systems: the energy cost of maintaining a concentrated state grows without bound compared to letting the system redistribute freely. Tested independently by four AI models (Claude, ChatGPT, DeepSeek, Grok) with falsification conditions identified. Originally motivated by the Navier-Stokes regularity problem, with cross-domain applications in cell biology, neuroscience, economics, sociology, communication networks and ecology.",
   "creators": [
     {
-      "name": "Carreño de Vicente, Diego",
-      "affiliation": "i-arquitectura.es / COAM",
+      "name": "Diego-dcv",
+      "affiliation": "https://github.com/Diego-dcv/Diego-dcv",
       "orcid": ""
     }
   ],
@@ -34,7 +34,8 @@
     "network diffusion",
     "falsification",
     "human-AI collaboration",
-    "complex systems"
+    "complex systems",
+    "non linear systems"
   ],
   "license": "CC-BY-4.0",
   "upload_type": "software",
