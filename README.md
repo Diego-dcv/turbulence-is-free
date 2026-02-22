@@ -52,6 +52,11 @@ Reporta ratio coste_A/coste_B en función de ν.
 | DeepSeek | 100 | 5–10 | ~10²–10⁴ (depende de p) | Sí (p > 0.12) |
 | Grok | 80 | 3 | ~10⁴ | Sí (ν > 0.01) |
 
+> **Nota:** La tabla refleja los ratios reportados por cada IA en su implementación original
+> (ratio clásico: coste_A/coste_B). El archivo `datos/resultados_pcc.csv` contiene una
+> ejecución unificada con métrica energética (work_A/diss_B), que da ratios menores (~7–700)
+> pero más fiables físicamente. Ambas métricas confirman que el ratio es >> 1 y crece con ν.
+
 #### Condiciones de fallo (falsación)
 
 El principio **no** es universal. Falla cuando:
@@ -142,6 +147,11 @@ Report ratio cost_A/cost_B as a function of ν.
 | ChatGPT | 70 | 5–8 | ~10³–10⁵ (energy metrics) | Yes |
 | DeepSeek | 100 | 5–10 | ~10²–10⁴ (depends on p) | Yes (p > 0.12) |
 | Grok | 80 | 3 | ~10⁴ | Yes (ν > 0.01) |
+
+> **Note:** The table reflects ratios reported by each AI in their original implementation
+> (classic ratio: cost_A/cost_B). The file `datos/resultados_pcc.csv` contains a unified
+> run using the energy metric (work_A/diss_B), yielding lower ratios (~7–700) but more
+> physically reliable. Both metrics confirm the ratio is >> 1 and grows with ν.
 
 #### Failure conditions (falsification)
 
