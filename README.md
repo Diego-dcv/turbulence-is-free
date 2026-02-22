@@ -90,7 +90,7 @@ Ni el humano ni ninguna IA por separado habrían producido este resultado. El ar
 Diego-dcv et al. (2026). El Principio de Coste de Concentración en Sistemas Disipativos:
 Falsación, límites y aplicaciones transversales.
 Con la colaboración de Claude (Anthropic), ChatGPT (OpenAI), DeepSeek y Grok (xAI).
-GitHub: https://github.com/[tu-usuario]/turbulence-is-free
+GitHub: GitHub: https://github.com/Diego-dcv/turbulence-is-free
 ```
 
 ---
@@ -181,7 +181,7 @@ Neither the human nor any single AI would have produced this result alone. The a
 Diego (:)iego) et al. (2026). The Concentration Cost Principle in Dissipative Systems:
 Falsification, limits and cross-domain applications.
 With the collaboration of Claude (Anthropic), ChatGPT (OpenAI), DeepSeek and Grok (xAI).
-GitHub: https://github.com/[tu-usuario]/turbulence-is-free
+GitHub: GitHub: https://github.com/Diego-dcv/turbulence-is-free
 ```
 
 ---
@@ -193,6 +193,8 @@ turbulence-is-free/
 ├── README.md                  ← This file / Este archivo (ES + EN)
 ├── LICENSE                    ← CC BY 4.0
 ├── documento/
+│   ├── On the Regularity of 3D Navier–Stokes.md
+│   ├── The Principle of the Cost of Concentration in Dissipative Systems.md
 │   ├── PCC-falsacion-y-aplicaciones.docx
 │   └── navier-stokes-conjetura.docx
 ├── codigo/
