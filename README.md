@@ -10,6 +10,7 @@
 
 > *En sistemas disipativos, la redistribución es gratuita —no requiere trabajo externo—. La concentración tiene un precio que crece sin límite.*
 
+![Ratio coste concentración vs difusión](ratio_vs_nu.png)
 ---
 
 #### Qué es esto
@@ -106,6 +107,7 @@ GitHub: https://github.com/Diego-dcv/turbulence-is-free
 
 > *In dissipative systems, redistribution is free —it requires no external work—. Concentration has a price that grows without bound.*
 
+![Ratio coste concentración vs difusión](ratio_vs_nu.png)
 ---
 
 #### What is this
