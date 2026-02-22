@@ -105,7 +105,7 @@ GitHub: https://github.com/[tu-usuario]/turbulence-is-free
 
 #### What is this
 
-An architect ([Diego / :)iego](https://i-arquitectura.es)) and four AI models (Claude, ChatGPT, DeepSeek, Grok) formulated and tested a general principle about dissipative systems:
+An architect (Diego-dcv) and four AI models (Claude, ChatGPT, DeepSeek, Grok) formulated and tested a general principle about dissipative systems:
 
 **In a dissipative system with sufficient connectivity, the energy cost of maintaining a concentrated state is strictly greater —and grows without bound— than the cost of maintaining a distributed state.**
 
