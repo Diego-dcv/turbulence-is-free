@@ -3,11 +3,12 @@
 ### El Principio de Coste de Concentración (PCC) en Sistemas Disipativos
 **The Concentration Cost Principle in Dissipative Systems**
 
-[![DOI](https://zenodo.org/badge/1164077783.svg)](https://doi.org/10.5281/zenodo.18733969)
+[![DOI](https://zenodo.org/badge/1164077783.svg)](https://doi.org/10.5281/zenodo.18735627)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > *La turbulencia es gratuita —no requiere trabajo externo—. Concentrar energía contra la cascada, no.*
 
+**[🇪🇸 Español](#-español)** · **[🇬🇧 English](#-english)**
 ---
 
 ## 🇪🇸 Español
