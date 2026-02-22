@@ -1,5 +1,3 @@
----
-
 # ON THE REGULARITY OF 3D NAVIER–STOKES
 
 ## An energy–variational hypothesis
@@ -15,7 +13,6 @@ February 2026
 > “If I could go back in time and ask God two questions, they would be: why relativity, and why turbulence? I think He may have an answer for the first.”
 > — Attributed to **Werner Heisenberg** 
 
----
 
 ## Preliminary note: nature and limits of this document
 
