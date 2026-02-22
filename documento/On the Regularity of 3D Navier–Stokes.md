@@ -4,7 +4,7 @@
 
 ### Premises and conjectures derived from a dialogue between an architect and an artificial intelligence
 
-Diego (i-arquitectura.es) & Claude (Anthropic)
+Diego-dcv & Claude (Anthropic)
 February 2026 
 
 > “Turbulence is the most important unsolved problem of classical physics.”
