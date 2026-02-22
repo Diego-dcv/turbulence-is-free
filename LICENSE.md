@@ -37,9 +37,9 @@ Texto completo de la licencia: https://creativecommons.org/licenses/by/4.0/legal
 ## Attribution / Atribución
 
 **Author / Autor:** Diego (Diego-dcv)  
-**Project / Proyecto:** Three Architectures, One Question  
+**Project / Proyecto:** The Concentration Cost Principle (CCP) in Dissipative Systems  
 **Year / Año:** 2026  
-**URL:** https://github.com/Diego-dcv/three-architectures-one-question
+**URL:** https://github.com/Diego-dcv/turbulence-is-free/
 
 When citing this work, please include:
 > Diego (2026). *The Concentration Cost Principle (CCP) in Dissipative Systems*. GitHub/Zenodo. 
