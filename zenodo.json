@@ -1,0 +1,43 @@
+{
+  "title": "turbulence-is-free: The Concentration Cost Principle in Dissipative Systems",
+  "description": "Computational exploration of a general principle about dissipative systems: the energy cost of maintaining a concentrated state grows without bound compared to letting the system redistribute freely. Tested independently by four AI models (Claude, ChatGPT, DeepSeek, Grok) with falsification conditions identified. Originally motivated by the Navier-Stokes regularity problem, with cross-domain applications in cell biology, neuroscience, economics, sociology, communication networks and ecology.",
+  "creators": [
+    {
+      "name": "Carreño de Vicente, Diego",
+      "affiliation": "i-arquitectura.es / COAM",
+      "orcid": ""
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Claude (Anthropic)",
+      "type": "Other"
+    },
+    {
+      "name": "ChatGPT (OpenAI)",
+      "type": "Other"
+    },
+    {
+      "name": "DeepSeek",
+      "type": "Other"
+    },
+    {
+      "name": "Grok (xAI)",
+      "type": "Other"
+    }
+  ],
+  "keywords": [
+    "concentration cost principle",
+    "dissipative systems",
+    "Navier-Stokes",
+    "turbulence",
+    "network diffusion",
+    "falsification",
+    "human-AI collaboration",
+    "complex systems"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "spa"
+}
