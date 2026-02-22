@@ -227,7 +227,7 @@ In a sense, this principle is the dynamic version of the second law of thermodyn
 
 This document is the result of an unusual process that deserves to be recorded:
 
-An architect (:)iego), with a physical-structural intuition, began a conversation with an AI (Claude) about Navier–Stokes. The conversation produced, along an unplanned path — via analogies with building structures, Penrose’s second law thermodynamics framing, Zeno’s paradox, and the practical experience of skimming fat from broth — a hypothesis that could be formulated and tested. 
+An architect (Diego-dcv), with a physical-structural intuition, began a conversation with an AI (Claude) about Navier–Stokes. The conversation produced, along an unplanned path — via analogies with building structures, Penrose’s second law thermodynamics framing, Zeno’s paradox, and the practical experience of skimming fat from broth — a hypothesis that could be formulated and tested. 
 
 An experimental protocol was designed and distributed to four different AIs without any of them knowing the others’ results. All four confirmed the hypothesis with their own nuances: ChatGPT was the most critical (it identified the absence of nonlinearity), DeepSeek the most meticulous (it found the critical connectivity), Grok the most intuitive (it proposed the strongest biological applications), and Claude provided the theoretical framework and synthesis. 
 
