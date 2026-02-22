@@ -45,4 +45,4 @@ When citing this work, please include:
 > Diego (2026). *The Concentration Cost Principle (CCP) in Dissipative Systems*. GitHub/Zenodo. 
 
 Al citar este trabajo, incluya:
-> Diego (2026). *El Principio de Coste de Concentración (PCC) en Sistemas DisipativosA*. GitHub/Zenodo. 
+> Diego (2026). *El Principio de Coste de Concentración (PCC) en Sistemas Disipativos*. GitHub/Zenodo. 
