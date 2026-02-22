@@ -9,7 +9,7 @@
 
 ## Qué es esto
 
-Un arquitecto ([Diego / :)iego](https://i-arquitectura.es)) y cuatro modelos de IA (Claude, ChatGPT, DeepSeek, Grok) formularon y testearon un principio general sobre sistemas disipativos:
+Un arquitecto ([Diego-dcv) y cuatro modelos de IA (Claude, ChatGPT, DeepSeek, Grok) formularon y testearon un principio general sobre sistemas disipativos:
 
 **En un sistema disipativo con conectividad suficiente, el coste energético de mantener un estado concentrado es estrictamente mayor —y crece sin límite— que el coste de mantener un estado distribuido.**
 
