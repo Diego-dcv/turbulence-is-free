@@ -8,10 +8,10 @@ Genera resultados comparables con métricas estandarizadas.
 Uso:
     python experimento_pcc.py
 
-Parámetros por defecto: N=50, p=0.15, 500 pasos, 5 realizaciones.
+Parámetros por defecto: N=100, p=0.15, 500 pasos, 10 realizaciones.
 Genera CSV con resultados y gráfico PNG.
 
-Autor: Diego-dcv
+Autor: Diego (:)iego) — i-arquitectura.es
 Colaboración: Claude (Anthropic), ChatGPT (OpenAI), DeepSeek, Grok (xAI)
 Fecha: Febrero 2026
 Licencia: CC BY 4.0
