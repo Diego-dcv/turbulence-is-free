@@ -90,7 +90,7 @@ Ni el humano ni ninguna IA por separado habrían producido este resultado. El ar
 Diego-dcv et al. (2026). El Principio de Coste de Concentración en Sistemas Disipativos:
 Falsación, límites y aplicaciones transversales.
 Con la colaboración de Claude (Anthropic), ChatGPT (OpenAI), DeepSeek y Grok (xAI).
-GitHub: GitHub: https://github.com/Diego-dcv/turbulence-is-free
+GitHub: https://github.com/Diego-dcv/turbulence-is-free
 ```
 
 ---
