@@ -1,0 +1,7 @@
+nu,dt,coste_b_media,coste_b_std,coste_a_media,coste_a_std,ratio_media,ratio_std,source
+0.005,1e-6,6.21e-07,1.73e-07,3.63e+01,1.02e-01,6.12e+07,1.48e+07,GPT-verified
+0.01,1e-6,9.06e-07,1.87e-07,6.70e+01,1.92e-01,7.61e+07,1.62e+07,GPT-verified
+0.02,1e-5,1.16e-03,5.33e-07,2.32e+04,6.75e+00,2.00e+07,7.60e+03,GPT-verified
+0.05,1e-5,2.90e-03,9.54e-07,2.32e+04,6.72e+00,8.00e+06,1.15e+03,GPT-verified
+0.1,1e-5,5.74e-03,1.71e-06,2.30e+04,6.64e+00,4.00e+06,2.09e+02,GPT-verified
+0.2,1e-5,1.13e-02,3.24e-06,2.26e+04,6.48e+00,2.00e+06,1.98e+01,GPT-verified
