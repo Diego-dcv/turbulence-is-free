@@ -1,5 +1,7 @@
 # turbulence-is-free
 
+[![DOI](https://zenodo.org/badge/1164077783.svg)](https://doi.org/10.5281/zenodo.18733969)
+
 **[🇪🇸 Español](#-español)** · **[🇬🇧 English](#-english)**
 
 ---
